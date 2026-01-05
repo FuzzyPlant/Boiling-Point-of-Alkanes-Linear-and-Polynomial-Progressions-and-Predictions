@@ -1,0 +1,1 @@
+Predicts boiling point of alkanes (roughly as boiling points are depentant on many more complicated variables)By graphing linear and polynomial regressions of known carbon count and boiling points of some alkanes
